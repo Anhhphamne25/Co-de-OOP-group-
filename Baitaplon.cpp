@@ -148,5 +148,5 @@ int NHANVIEN::slnv = 0;
 double NHANVIEN::tsl = 0.0;
 
 int main(){
-    
+    mẹ mày béo lắm con ạ;
 }
